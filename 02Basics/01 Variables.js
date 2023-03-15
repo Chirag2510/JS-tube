@@ -19,3 +19,5 @@ console.log(paymentType);  //undefined type of variable
 paymentType = "Credit Card";
 
 console.log(paymentType);
+
+//testings
